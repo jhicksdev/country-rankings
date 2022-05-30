@@ -10,9 +10,9 @@ A table of countries and their rankings regarding quality of life, safety, democ
 ## Adding new data:
 The desired country names are stored in the `resources/data/names.txt` file. Add a valid country name to the file in order for the table to list it. You might also need to browse through the CSV files to check if the name matches in all of them.
 
-New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/data` directory. Issue this command to complete to process:
+New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/data` directory. Issue this command to complete the process:
 
-```console
+```sh
 $ node scripts/generate-data.js
 ```
 **NOTE:** [Node.js](https://nodejs.org/en/) must be installed to execute the `node` command.
