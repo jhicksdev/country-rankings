@@ -16,3 +16,5 @@ New data that is added to this project must be in CSV format. The order of the c
 $ node scripts/generate-data.js
 ```
 **NOTE:** [Node.js](https://nodejs.org/en/) must be installed to execute the `node` command.
+
+The new data should now be written to the `resources/data/data.json` file.
