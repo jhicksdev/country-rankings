@@ -1,0 +1,1133 @@
+{
+  "countries": [
+    {
+      "name": "Australia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 8,
+          "score": 0.944
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 8,
+          "score": 91.29
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 12,
+          "score": 7.223
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 9,
+          "score": 8.9
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 16,
+          "score": 1.47
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/32px-Flag_of_Australia_(converted).svg.png"
+    },
+    {
+      "name": "Austria",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 18,
+          "score": 0.922
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 15,
+          "score": 89.5
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 9,
+          "score": 7.294
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 21,
+          "score": 8.07
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 6,
+          "score": 1.317
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/32px-Flag_of_Austria.svg.png"
+    },
+    {
+      "name": "Belarus",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 53,
+          "score": 0.823
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 47,
+          "score": 77
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 75,
+          "score": 5.54
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 146,
+          "score": 2.41
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 117,
+          "score": 2.285
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/32px-Flag_of_Belarus.svg.png"
+    },
+    {
+      "name": "Belgium",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 14,
+          "score": 0.931
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 16,
+          "score": 89.46
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 20,
+          "score": 6.864
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 36,
+          "score": 7.51
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 20,
+          "score": 1.496
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/32px-Flag_of_Belgium.svg.png"
+    },
+    {
+      "name": "Canada",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 16,
+          "score": 0.929
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 7,
+          "score": 91.4
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 11,
+          "score": 7.232
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 12,
+          "score": 8.87
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 10,
+          "score": 1.33
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_(Pantone).svg/32px-Flag_of_Canada_(Pantone).svg.png"
+    },
+    {
+      "name": "Czech Republic",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 27,
+          "score": 0.9
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 25,
+          "score": 86.69
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 19,
+          "score": 6.911
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 29,
+          "score": 7.74
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 9,
+          "score": 1.329
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/32px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    {
+      "name": "Denmark",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 10,
+          "score": 0.94
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 2,
+          "score": 92.11
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 2,
+          "score": 7.646
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 6,
+          "score": 9.09
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 3,
+          "score": 1.256
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/32px-Flag_of_Denmark.svg.png"
+    },
+    {
+      "name": "Estonia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 29,
+          "score": 0.892
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 24,
+          "score": 87.26
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 51,
+          "score": 6.022
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 27,
+          "score": 7.84
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 30,
+          "score": 1.612
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/32px-Flag_of_Estonia.svg.png"
+    },
+    {
+      "name": "Finland",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 11,
+          "score": 0.938
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 3,
+          "score": 91.89
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 1,
+          "score": 7.809
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 3,
+          "score": 9.27
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 13,
+          "score": 1.402
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/32px-Flag_of_Finland.svg.png"
+    },
+    {
+      "name": "France",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 26,
+          "score": 0.901
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 18,
+          "score": 88.78
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 23,
+          "score": 6.664
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 22,
+          "score": 7.99
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 55,
+          "score": 1.868
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/32px-Flag_of_France.svg.png"
+    },
+    {
+      "name": "Germany",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 6,
+          "score": 0.947
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 11,
+          "score": 90.56
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 17,
+          "score": 7.076
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 15,
+          "score": 8.67
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 18,
+          "score": 1.48
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/32px-Flag_of_Germany.svg.png"
+    },
+    {
+      "name": "Greece",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 32,
+          "score": 0.888
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 27,
+          "score": 85.78
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 77,
+          "score": 5.515
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 34,
+          "score": 7.56
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 66,
+          "score": 1.932
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/32px-Flag_of_Greece.svg.png"
+    },
+    {
+      "name": "Hungary",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 40,
+          "score": 0.854
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 40,
+          "score": 81.02
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 53,
+          "score": 6
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 56,
+          "score": 6.5
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 19,
+          "score": 1.494
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/32px-Flag_of_Hungary.svg.png"
+    },
+    {
+      "name": "Iceland",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 4,
+          "score": 0.949
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 9,
+          "score": 91.09
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 4,
+          "score": 7.504
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 5,
+          "score": 9.18
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 1,
+          "score": 1.1
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/32px-Flag_of_Iceland.svg.png"
+    },
+    {
+      "name": "Ireland",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 2,
+          "score": 0.955
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 12,
+          "score": 90.35
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 16,
+          "score": 7.094
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 7,
+          "score": 9
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 8,
+          "score": 1.326
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/32px-Flag_of_Ireland.svg.png"
+    },
+    {
+      "name": "Italy",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 29,
+          "score": 0.892
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 23,
+          "score": 87.36
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 30,
+          "score": 6.387
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 31,
+          "score": 7.68
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 32,
+          "score": 1.652
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/32px-Flag_of_Italy.svg.png"
+    },
+    {
+      "name": "Latvia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 37,
+          "score": 0.866
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 35,
+          "score": 83.19
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 57,
+          "score": 5.95
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 38,
+          "score": 7.31
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 35,
+          "score": 1.686
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/32px-Flag_of_Latvia.svg.png"
+    },
+    {
+      "name": "Lithuania",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 34,
+          "score": 0.882
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 32,
+          "score": 83.97
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 41,
+          "score": 6.215
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 40,
+          "score": 7.18
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 37,
+          "score": 1.689
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/32px-Flag_of_Lithuania.svg.png"
+    },
+    {
+      "name": "Netherlands",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 8,
+          "score": 0.944
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 10,
+          "score": 91.06
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 6,
+          "score": 7.449
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 11,
+          "score": 8.88
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 21,
+          "score": 1.506
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/32px-Flag_of_the_Netherlands.svg.png"
+    },
+    {
+      "name": "New Zealand",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 14,
+          "score": 0.931
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 4,
+          "score": 91.64
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 8,
+          "score": 7.3
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 2,
+          "score": 9.37
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 2,
+          "score": 1.253
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/32px-Flag_of_New_Zealand.svg.png"
+    },
+    {
+      "name": "Norway",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 1,
+          "score": 0.957
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 1,
+          "score": 92.73
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 5,
+          "score": 7.488
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 1,
+          "score": 9.75
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 14,
+          "score": 1.438
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png"
+    },
+    {
+      "name": "Poland",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 35,
+          "score": 0.88
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 31,
+          "score": 84.32
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 43,
+          "score": 6.186
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 51,
+          "score": 6.8
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 24,
+          "score": 1.524
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/32px-Flag_of_Poland.svg.png"
+    },
+    {
+      "name": "Portugal",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 38,
+          "score": 0.864
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 21,
+          "score": 87.79
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 59,
+          "score": 5.911
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 28,
+          "score": 7.82
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 4,
+          "score": 1.267
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/32px-Flag_of_Portugal.svg.png"
+    },
+    {
+      "name": "Romania",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 49,
+          "score": 0.828
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 45,
+          "score": 78.35
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 47,
+          "score": 6.124
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 61,
+          "score": 6.43
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 25,
+          "score": 1.53
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/32px-Flag_of_Romania.svg.png"
+    },
+    {
+      "name": "Russia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 52,
+          "score": 0.824
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 69,
+          "score": 72.56
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 73,
+          "score": 5.546
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 124,
+          "score": 3.24
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 154,
+          "score": 2.993
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/32px-Flag_of_Russia.svg.png"
+    },
+    {
+      "name": "Slovakia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 39,
+          "score": 0.86
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 36,
+          "score": 83.15
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 37,
+          "score": 6.281
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 45,
+          "score": 7.03
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 26,
+          "score": 1.557
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/32px-Flag_of_Slovakia.svg.png"
+    },
+    {
+      "name": "Slovenia",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 22,
+          "score": 0.917
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 22,
+          "score": 87.71
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 33,
+          "score": 6.363
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 35,
+          "score": 7.54
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 5,
+          "score": 1.315
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/32px-Flag_of_Slovenia.svg.png"
+    },
+    {
+      "name": "Spain",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 25,
+          "score": 0.904
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 19,
+          "score": 88.71
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 28,
+          "score": 6.401
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 24,
+          "score": 7.94
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 31,
+          "score": 1.621
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/32px-Bandera_de_Espa%C3%B1a.svg.png"
+    },
+    {
+      "name": "Sweden",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 7,
+          "score": 0.945
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 5,
+          "score": 91.62
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 7,
+          "score": 7.353
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 4,
+          "score": 9.26
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 15,
+          "score": 1.46
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/32px-Flag_of_Sweden.svg.png"
+    },
+    {
+      "name": "Switzerland",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 2,
+          "score": 0.955
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 6,
+          "score": 91.42
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 3,
+          "score": 7.56
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 9,
+          "score": 8.9
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 7,
+          "score": 1.323
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/32px-Civil_Ensign_of_Switzerland.svg.png"
+    },
+    {
+      "name": "Turkey",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 54,
+          "score": 0.82
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 92,
+          "score": 68.27
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 93,
+          "score": 5.132
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 103,
+          "score": 4.35
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 149,
+          "score": 2.843
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/32px-Flag_of_Turkey.svg.png"
+    },
+    {
+      "name": "Ukraine",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 74,
+          "score": 0.779
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 63,
+          "score": 73.38
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 123,
+          "score": 4.561
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 86,
+          "score": 5.57
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 143,
+          "score": 2.66
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/32px-Flag_of_Ukraine.svg.png"
+    },
+    {
+      "name": "United Kingdom",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 13,
+          "score": 0.932
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 20,
+          "score": 88.54
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 13,
+          "score": 7.165
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 18,
+          "score": 8.1
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 33,
+          "score": 1.658
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png"
+    },
+    {
+      "name": "United States",
+      "reports": [
+        {
+          "title": "2019 Human Development Index",
+          "rank": 17,
+          "score": 0.926
+        },
+        {
+          "title": "2020 Social Progress Index",
+          "rank": 28,
+          "score": 85.71
+        },
+        {
+          "title": "2020 World Happiness Report",
+          "rank": 18,
+          "score": 6.94
+        },
+        {
+          "title": "2021 Democracy Index",
+          "rank": 26,
+          "score": 7.85
+        },
+        {
+          "title": "2021 Global Peace Index",
+          "rank": 122,
+          "score": 2.337
+        }
+      ],
+      "rank": null,
+      "overallScore": null,
+      "flagImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png"
+    }
+  ],
+  "reportTitles": [
+    "2019 Human Development Index",
+    "2020 Social Progress Index",
+    "2020 World Happiness Report",
+    "2021 Democracy Index",
+    "2021 Global Peace Index"
+  ]
+}
