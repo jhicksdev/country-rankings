@@ -12,8 +12,8 @@ The desired country names are stored in the `resources/data/names.txt` file. Add
 
 New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/data` directory. Issue this command to complete the process:
 
-```sh
-$ node scripts/generate-data.js
+```bash
+node scripts/generate-data.js
 ```
 **NOTE:** [Node.js](https://nodejs.org/en/) must be installed to execute the `node` command.
 
