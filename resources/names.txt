@@ -3,6 +3,7 @@ Austria
 Belarus
 Belgium
 Canada
+China
 Czech Republic
 Denmark
 Estonia
@@ -14,6 +15,7 @@ Hungary
 Iceland
 Ireland
 Italy
+Japan
 Latvia
 Lithuania
 Netherlands
@@ -23,8 +25,10 @@ Poland
 Portugal
 Romania
 Russia
+Singapore
 Slovakia
 Slovenia
+South Korea
 Spain
 Sweden
 Switzerland

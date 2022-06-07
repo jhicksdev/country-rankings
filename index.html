@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Country Rankings</title>
-  <link rel="shortcut icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/58/globe-with-meridians_1f310.png" type="image/x-icon">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-  <link rel="stylesheet" href="resources/stylesheets/style.css">
-</head>
-<body>
-  <h1>Country Rankings</h1>
-  <h6 class="opacity-50">by Joseph Hicks (jhicksdev)</h6>
-  <table id="report-table" class="table table-bordered">
-    <thead class="table-light">
-      <tr id="report-table-head-row">
-        <!-- <th scope="col">Rank</th> -->
-        <th scope="col">Flag</th>
-        <th scope="col">Country</th>
-        <!-- <th scope="col">Overall Score</th> -->
-      </tr>
-    </thead>
-  </table>
-  <script src="src/main.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Country Rankings</title>
+    <link rel="shortcut icon" href="#" type="image/x-icon" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body style="padding: 8px">
+    <h1>Country Rankings</h1>
+    <h6 class="opacity-50" style="padding-bottom: 8px">
+      by Joseph Hicks (jhicksdev)
+    </h6>
+    <table id="report-table" class="table table-bordered">
+      <thead class="table-light">
+        <tr id="report-table-heads">
+          <th>Flag</th>
+          <th>Country</th>
+        </tr>
+      </thead>
+    </table>
+    <script type="module" src="src/main.js"></script>
+  </body>
 </html>
