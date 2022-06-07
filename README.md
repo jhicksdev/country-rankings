@@ -21,3 +21,13 @@ Issue the following command to complete the process. The data should be written 
 ```sh
 python3 scripts/generate_data.py
 ```
+
+## Deploying local testing server
+
+To deploy a local testing server, we are going to be using the *http.server* Python module. In the command line, navigate to this project and issue the following command.
+
+```sh
+python3 -m http.server
+```
+
+Go to the URL `http://0.0.0.0:8000/` in your web browser to view the page.
