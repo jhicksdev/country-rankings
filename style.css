@@ -1,0 +1,25 @@
+body {
+  padding: 8px;
+  font-family: "Roboto", sans-serif;
+}
+
+#report-table {
+  width: auto;
+}
+
+#github-link {
+  position: fixed;
+  right: 8px;
+  bottom: 8px;
+  width: 48px;
+  height: 48px;
+  background-color: black;
+  border: none;
+  border-radius: 8px;
+}
+
+#github-link img {
+  padding: 4px;
+  width: 100%;
+  filter: invert(1);
+}

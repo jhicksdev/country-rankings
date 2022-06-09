@@ -1,12 +1,12 @@
-const reportTable = document.getElementById("report-table");
-const reportTableHeads = document.getElementById("report-table-heads");
+const table = document.getElementById("report-table");
+const heads = document.getElementById("report-table-heads");
 
 function processData(data) {
   const countries = data.countries;
-  const reportTitles = data.reportTitles;
+  const titles = data.reportTitles;
 
-  for (const title of reportTitles) {
-    reportTableHeads.innerHTML += `<th>${title}</th>`;
+  for (const title of titles) {
+    heads.innerHTML += `<th>${title}</th>`;
   }
 
   for (const country of countries) {
@@ -18,7 +18,7 @@ function processData(data) {
         3
       )}<span style="opacity: 50%">(${report.rank})</span></td>`;
     }
-    reportTable.appendChild(row);
+    table.appendChild(row);
   }
 }
 
