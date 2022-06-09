@@ -15,7 +15,7 @@ body {
   height: 48px;
   background-color: black;
   border: none;
-  border-radius: 8px;
+  border-radius: 100%;
 }
 
 #github-link img {
