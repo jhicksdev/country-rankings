@@ -2,7 +2,12 @@ import json
 import os
 
 
-countries, report_titles = [], []
+countries, titles = [], []
+
+
+def map_range(value, start1, stop1, start2, stop2) -> float:
+    return (((value - start1) * (stop2 - start2)) /
+            (stop1 - start1)) + start2
 
 
 def get_country_by_name(name):
@@ -14,7 +19,8 @@ def get_country_by_name(name):
 with open("resources/names.txt") as file:
     names = file.read().split("\n")
     for name in names:
-        countries.append({"name": name, "flag": "", "reports": []})
+        countries.append(
+            {"rank": 0, "flag": "", "name": name, "overallScore": 0, "reports": []})
     file.close()
 
 with open("resources/flags.json") as file:
@@ -26,8 +32,8 @@ with open("resources/flags.json") as file:
 for filename in sorted(os.listdir("resources")):
     if filename.endswith(".csv"):
         title = filename[:-4].replace("_", " ")
-        if title not in report_titles:
-            report_titles.append(title)
+        if title not in titles:
+            titles.append(title)
         with open("resources/" + filename) as file:
             next(file)
             rows = file.read().split("\n")
@@ -40,6 +46,26 @@ for filename in sorted(os.listdir("resources")):
                         {"title": title, "rank": int(tokens[0]), "score": float(tokens[2])})
             file.close()
 
+with open("resources/evals.json") as file:
+    evals = json.load(file)
+    for title in evals:
+        for country in countries:
+            for report in country["reports"]:
+                if title == report["title"]:
+                    country["overallScore"] += eval(
+                        str(evals[title]).replace("value", str(report["score"])))
+    file.close()
+
+for country in countries:
+    country["overallScore"] /= len(titles)
+
+countries.sort(key=lambda x: x["overallScore"], reverse=True)
+
+rank = 0
+for country in countries:
+    rank += 1
+    country["rank"] = rank
+
 with open("resources/data.json", "w") as file:
-    json.dump({"countries": countries, "reportTitles": report_titles}, file)
+    json.dump({"countries": countries, "titles": titles}, file)
     file.close()

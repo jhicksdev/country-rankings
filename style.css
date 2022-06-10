@@ -1,25 +1,12 @@
 body {
-  padding: 8px;
+  padding: 12px;
   font-family: "Roboto", sans-serif;
 }
 
-#report-table {
-  width: auto;
+#report-table-heads th {
+  vertical-align: middle;
 }
 
-#github-link {
-  position: fixed;
-  right: 8px;
-  bottom: 8px;
-  width: 48px;
-  height: 48px;
-  background-color: black;
-  border: none;
-  border-radius: 100%;
-}
-
-#github-link img {
-  padding: 4px;
-  width: 100%;
-  filter: invert(1);
+#report-table tr {
+  height: 64px;
 }
