@@ -4,8 +4,11 @@
 
 A table of countries and their rankings regarding quality of life, safety, democracy, etc. The data being used in this project has been copied the following Wikipedia pages:
 
+- https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
 - https://en.wikipedia.org/wiki/Democracy_Index
 - https://en.wikipedia.org/wiki/Global_Peace_Index
+- https://en.wikipedia.org/wiki/Legatum_Prosperity_Index
+- https://en.wikipedia.org/wiki/List_of_countries_by_Fragile_States_Index
 - https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
 - https://en.wikipedia.org/wiki/Social_Progress_Index
 - https://en.wikipedia.org/wiki/World_Happiness_Report
