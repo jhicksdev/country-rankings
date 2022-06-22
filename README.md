@@ -17,12 +17,12 @@ A table of countries and their rankings regarding quality of life, safety, democ
 
 The desired country names are stored in the `resources/names.txt` file. Add a valid country name to the file in order for the table to list it. You might also need to browse through the CSV files to check if the name matches in all of them.
 
-New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources` directory.
+New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/csv` directory.
 
-Issue the following command to complete the process. The data should be written to the `resources/data.json` file.
+Issue the following command to complete the process. The data should be written to the `resources/json/data.json` file.
 
 ```
-python3 generate_data.py
+python3 scripts/gen.py
 ```
 
 ## Deploying local testing server
