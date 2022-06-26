@@ -1,0 +1,203 @@
+rank,name,score
+1,Canada,13
+2,Malta,11
+2,Portugal,11
+2,Spain,11
+5,Austria,10
+5,Denmark,10
+5,Sweden,10
+5,United Kingdom,10
+5,Uruguay,10
+10,Australia,9
+10,Germany,9
+10,Iceland,9
+10,Taiwan,9
+14,Colombia,8
+14,Netherlands,8
+14,New Zealand,8
+14,Switzerland,8
+18,Belgium,7
+18,Greenland,7
+18,Ireland,7
+18,Norway,7
+22,Argentina,6
+22,Finland,6
+22,France,6
+22,Luxembourg,6
+22,Réunion,5
+27,French Polynesia,5
+27,New Caledonia,5
+27,Puerto Rico,5
+27,South Africa,5
+31,Costa Rica,4
+31,Ecuador,4
+31,Guadeloupe,4
+31,Israel,4
+31,Martinique,4
+31,United States,4
+37,Gibraltar,3
+37,Guam,3
+37,Slovenia,3
+40,Andorra,2
+40,Brazil,2
+40,Chile,2
+40,Czech Republic,2
+40,Estonia,2
+40,Mexico,2
+46,Cuba,1
+46,Greece,1
+46,India,1
+46,San Marino,1
+46,Thailand,1
+51,Bermuda,0
+51,Croatia,0
+51,Italy,0
+51,Liechtenstein,0
+51,Nepal,0
+51,Slovakia,0
+51,US Virgin Islands,0
+58,Bolivia,-1
+58,Bosnia and Herzegovina,-1
+60,Albania,-2
+60,Aruba,-2
+60,Bhutan,-2
+60,Japan,-2
+60,Mozambique,-2
+60,Samoa,-2
+66,Angola,-3
+66,Bulgaria,-3
+66,China,-3
+66,Cyprus,-3
+66,Fiji,-3
+66,Hungary,-3
+66,South Korea,-3
+66,North Macedonia,-3
+66,Monaco,-3
+66,Montenegro,-3
+66,Panama,-3
+66,Romania,-3
+66,Serbia,-3
+66,Sint Maarten,-3
+66,Vietnam,-3
+81,Armenia,-4
+81,Botswana,-4
+81,Cabo Verde,-4
+81,Curaçao,-4
+81,El Salvador,-4
+81,Kazakhstan,-4
+81,Kosovo,-4
+81,Laos,-4
+81,Latvia,-4
+81,Lesotho,-4
+81,Lithuania,-4
+81,Macao,-4
+81,Mali,-4
+81,Mongolia,-4
+81,Niger,-4
+96,Belize,-5
+96,Benin,-5
+96,British Virgin Islands,-5
+96,Cambodia,-5
+96,Georgia,-5
+96,Moldova,-5
+96,Pakistan,-5
+96,Seychelles,-5
+96,Singapore,-5
+96,Sri Lanka,-5
+96,Suriname,-5
+107,Antigua and Barbuda,-6
+107,Barbados,-6
+107,Gabon,-6
+107,Guinea-Bissau,-6
+107,Jordan,-6
+107,Kyrgyzstan,-6
+107,Namibia,-6
+107,Peru,-6
+107,Ukraine,-6
+107,Vanuatu,-6
+117,Burkina Faso,-7
+117,Honduras,-7
+117,Lebanon,-7
+117,Mauritius,-7
+117,Myanmar,-7
+117,Nicaragua,-7
+117,Philippines,-7
+117,Turkey,-7
+117,Venezuela,-7
+126,Bangladesh,-8
+126,Cook Islands,-8
+126,Equatorial Guinea,-8
+126,Poland,-8
+126,Tajikistan,-8
+126,Trinidad and Tobago,-8
+132,Algeria,-9
+132,Bahamas,-9
+132,Bahrain,-9
+132,Burundi,-9
+132,Central African Republic,-9
+132,Democratic Republic of Congo,-9
+132,Djibouti,-9
+132,Grenada,-9
+132,Guatemala,-9
+132,Indonesia,-9
+132,North Korea,-9
+132,Madagascar,-9
+132,Republic of the Congo,-9
+132,Rwanda,-9
+132,Sierra Leone,-9
+132,Tonga,-9
+132,Tunisia,-9
+132,Vatican City,-9
+150,Azerbaijan,-10
+150,Belarus,-10
+150,Guyana,-10
+150,Kenya,-10
+150,Oman,-10
+150,Papua New Guinea,-10
+150,Paraguay,-10
+150,Togo,-10
+150,Uzbekistan,-10
+150,Zambia,-10
+160,Brunei,-11
+160,Chad,-11
+160,Comoros,-11
+160,Dominica,-11
+160,Dominican Republic,-11
+160,Ethiopia,-11
+160,Ghana,-11
+160,Ivory Coast,-11
+160,Liberia,-11
+160,Maldives,-11
+160,Senegal,-11
+160,Solomon Islands,-11
+160,Sudan,-11
+160,Eswatini,-11
+160,Syria,-11
+160,Turkmenistan,-11
+176,Eritrea,-12
+176,Gambia,-12
+176,Haiti,-12
+176,Aceh (Indonesia),-12
+176,Iraq,-12
+176,Jamaica,-12
+176,Malawi,-12
+176,Malaysia,-12
+176,Mauritania,-12
+176,Morocco,-12
+176,Russia,-12
+176,Tanzania,-12
+176,Uganda,-12
+176,Zimbabwe,-12
+190,Cameroon,-13
+190,Egypt,-13
+190,Kuwait,-13
+190,Nigeria,-13
+190,Qatar,-13
+195,Afghanistan,-14
+195,Libya,-14
+195,United Arab Emirates,-14
+198,Yemen,-15
+199,Iran,-17
+200,Saudi Arabia,-18
+200,Somalia,-18
+202,Chechnya (Russia),-19

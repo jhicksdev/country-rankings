@@ -1,12 +1,32 @@
 body {
-  padding: 12px;
+  padding: 1em;
   font-family: "Roboto", sans-serif;
 }
 
-#report-table-heads th {
+#table-wrapper {
+  overflow: scroll;
+}
+
+#report-table {
+  white-space: nowrap;
+}
+
+#report-table thead tr th {
+  top: 0;
+  position: sticky;
+  z-index: 20;
   vertical-align: middle;
 }
 
-#report-table tr {
+#report-table tr,
+#report-table th {
   height: 64px;
+  vertical-align: middle;
+}
+
+th,
+td {
+  padding: 6px;
+  outline: 1px solid rgb(231, 231, 231);
+  outline-offset: -1px;
 }
