@@ -6,10 +6,15 @@ A table of countries and their rankings regarding quality of life, safety, democ
 
 - https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
 - https://en.wikipedia.org/wiki/Democracy_Index
+- https://en.wikipedia.org/wiki/Freedom_in_the_World
+- https://en.wikipedia.org/wiki/Gay-friendly
+- https://en.wikipedia.org/wiki/Global_Gender_Gap_Report
 - https://en.wikipedia.org/wiki/Global_Peace_Index
+- https://en.wikipedia.org/wiki/Global_Terrorism_Index
 - https://en.wikipedia.org/wiki/Legatum_Prosperity_Index
 - https://en.wikipedia.org/wiki/List_of_countries_by_Fragile_States_Index
 - https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
+- https://en.wikipedia.org/wiki/List_of_countries_by_natural_disaster_risk
 - https://en.wikipedia.org/wiki/Social_Progress_Index
 - https://en.wikipedia.org/wiki/World_Happiness_Report
 
