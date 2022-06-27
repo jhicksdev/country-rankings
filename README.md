@@ -2,16 +2,23 @@
 
 ## Overview
 
-A table of countries and their rankings regarding quality of life, safety, democracy, etc. The data being used in this project has been copied the following Wikipedia pages:
+A table of countries and their rankings regarding quality of life, safety, democracy, etc. The data being used in this project has been copied from the following Wikipedia pages below.
 
-- https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
-- https://en.wikipedia.org/wiki/Democracy_Index
-- https://en.wikipedia.org/wiki/Global_Peace_Index
-- https://en.wikipedia.org/wiki/Legatum_Prosperity_Index
-- https://en.wikipedia.org/wiki/List_of_countries_by_Fragile_States_Index
-- https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
-- https://en.wikipedia.org/wiki/Social_Progress_Index
-- https://en.wikipedia.org/wiki/World_Happiness_Report
+| Title | Year | Source |
+| --- | --- | --- |
+| Corruption Perceptions Index (CPI) | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index#2012%E2%80%932021) |
+| Democracy Index | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Democracy_Index#By_country) |
+| Fragile States Index (FSI) | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Fragile_States_Index#Fragile_States_Index_2021) |
+| Freedom in the World | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Freedom_in_the_World#World) |
+| Gay Travel Index | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Gay-friendly#World) |
+| Global Gender Gap Report | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Global_Gender_Gap_Report#WEF_Global_Gender_Gap_Index_rankings) |
+| Global Peace Index (GPI) | 2022 | [Wikipedia](https://en.wikipedia.org/wiki/Global_Peace_Index#Global_Peace_Index_2022_ranking) |
+| Global Terrorism Index (GTI) | 2022 | [Wikipedia](https://en.wikipedia.org/wiki/Global_Terrorism_Index#By_country) |
+| Human Development Index (HDI) | 2019 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index#Nations) |
+| Legatum Prosperity Index | 2021 | [Wikipedia](https://en.wikipedia.org/wiki/Legatum_Prosperity_Index#2021[2]) |
+| Social Progress Index (SPI) | 2020 | [Wikipedia](https://en.wikipedia.org/wiki/Social_Progress_Index#2020_rankings_and_scores_by_country) |
+| World Happiness Report | 2020 | [Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report#2020_report) |
+| World Risk Index | 2016 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_natural_disaster_risk#Rankings) |
 
 ## Adding new data
 
