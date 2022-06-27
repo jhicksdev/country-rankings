@@ -3,13 +3,10 @@ const element = document.getElementById("report-table");
 const headerRow = element.children[0].children[0];
 const body = element.children[1];
 
-const vh = Math.max(
-  document.documentElement.clientHeight || 0,
-  window.innerHeight || 0
-);
-
 const wrapperY = wrapper.getBoundingClientRect().y;
-wrapper.style.height = `calc(${vh - wrapperY}px - 1em)`;
+window.addEventListener("resize", () => {
+  wrapper.style.height = `calc(${window.innerHeight - wrapperY}px - 1em)`;
+});
 
 fetch("resources/json/data.json")
   .then((res) => res.json())
