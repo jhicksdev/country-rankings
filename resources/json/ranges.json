@@ -1,0 +1,93 @@
+[
+  {
+    "title": "2016 World Risk Index",
+    "ranks": {
+      "best": 1,
+      "worst": 171
+    }
+  },
+  {
+    "title": "2019 Human Development Index",
+    "ranks": {
+      "best": 1,
+      "worst": 189
+    }
+  },
+  {
+    "title": "2020 Social Progress Index",
+    "ranks": {
+      "best": 1,
+      "worst": 163
+    }
+  },
+  {
+    "title": "2020 World Happiness Report",
+    "ranks": {
+      "best": 1,
+      "worst": 153
+    }
+  },
+  {
+    "title": "2021 Corruption Perceptions Index",
+    "ranks": {
+      "best": 1,
+      "worst": 180
+    }
+  },
+  {
+    "title": "2021 Democracy Index",
+    "ranks": {
+      "best": 1,
+      "worst": 167
+    }
+  },
+  {
+    "title": "2021 Fragile States Index",
+    "ranks": {
+      "best": 179,
+      "worst": 1
+    }
+  },
+  {
+    "title": "2021 Freedom in the World",
+    "ranks": {
+      "best": 1,
+      "worst": 190
+    }
+  },
+  {
+    "title": "2021 Gay Travel Index",
+    "ranks": {
+      "best": 1,
+      "worst": 202
+    }
+  },
+  {
+    "title": "2021 Global Gender Gap Report",
+    "ranks": {
+      "best": 1,
+      "worst": 156
+    }
+  },
+  {
+    "title": "2021 Legatum Prosperity Index",
+    "ranks": {
+      "best": 1,
+      "worst": 167
+    }
+  },
+  {
+    "title": "2022 Global Peace Index",
+    "ranks": {
+      "best": 1,
+      "worst": 163
+    }
+  },
+  {
+    "title": "2022 Global Terrorism Index",
+    "ranks": {
+      "best": 93,
+      "worst": 1
+    }
+  }
+]

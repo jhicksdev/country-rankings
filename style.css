@@ -11,20 +11,18 @@ body {
   white-space: nowrap;
 }
 
-#report-table thead tr th {
+#report-table tr, #report-table th {
+  vertical-align: middle;
+}
+
+th, td {
+  outline: 1px solid #e8e8e8;
+  outline-offset: -1px;
+}
+
+.frozen-header {
   top: 0;
   position: sticky;
   z-index: 20;
   vertical-align: middle;
-}
-
-#report-table tr,
-#report-table th {
-  vertical-align: middle;
-}
-
-th,
-td {
-  outline: 1px solid #e8e8e8;
-  outline-offset: -1px;
 }

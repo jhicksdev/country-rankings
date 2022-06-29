@@ -1,33 +1,27 @@
 import json
 import os
-
+import requests
 
 countries, titles = [], []
-
 
 def map_range(value, start1, stop1, start2, stop2) -> float:
     return (((value - start1) * (stop2 - start2)) /
             (stop1 - start1)) + start2
-
 
 def get_country_by_name(name):
     for country in countries:
         if country["name"] == name:
             return country
 
-
-with open("resources/names.txt") as file:
-    names = file.read().split("\n")
-    for name in names:
-        countries.append(
-            {"rank": 0, "flag": "", "name": name, "overallScore": 0, "reports": []})
+ignored_names = None
+with open("resources/json/ignored-names.json") as file:
+    ignored_names = json.load(file)
     file.close()
 
-with open("resources/json/flags.json") as file:
-    flags = json.load(file)
-    for name in flags:
-        get_country_by_name(name)["flag"] = flags[name]
-    file.close()
+with requests.get("https://restcountries.com/v3.1/all") as response:
+    for country in response.json():
+        if country["name"]["common"] not in ignored_names:
+            countries.append({ "rank": 0, "flag": country["flag"], "name": country["name"]["common"], "overallScore": 0, "reports": [] })
 
 for filename in sorted(os.listdir("resources/csv")):
     title = filename[:-4].replace("_", " ")
@@ -41,18 +35,16 @@ for filename in sorted(os.listdir("resources/csv")):
             tokens = row.split(",")
             country = get_country_by_name(tokens[1])
             if country != None:
-                country["reports"].append(
-                    {"title": title, "rank": int(tokens[0]), "score": float(tokens[2])})
+                country["reports"].append({ "title": title, "rank": int(tokens[0]), "score": float(tokens[2]) })
         file.close()
 
-with open("resources/json/evals.json") as file:
-    evals = json.load(file)
-    for title in evals:
+with open("resources/json/ranges.json") as file:
+    ranges = json.load(file)
+    for range in ranges:
         for country in countries:
             for report in country["reports"]:
-                if title == report["title"]:
-                    country["overallScore"] += eval(
-                        str(evals[title]).replace("value", str(report["rank"])))
+                if range["title"] == report["title"]:
+                    country["overallScore"] += map_range(report["rank"], range["ranks"]["worst"], range["ranks"]["best"], 0, 1)
     file.close()
 
 for country in countries:

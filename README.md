@@ -20,11 +20,25 @@ A table of countries and their rankings regarding quality of life, safety, democ
 | World Happiness Report | 2020 | [Wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report#2020_report) |
 | World Risk Index | 2016 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_natural_disaster_risk#Rankings) |
 
+This project uses the [Rest Countries](https://gitlab.com/amatos/rest-countries) RESTful API.
+
 ## Adding new data
 
-The desired country names are stored in the `resources/names.txt` file. Add a valid country name to the file in order for the table to list it. You might also need to browse through the CSV files to check if the name matches in all of them.
+New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/csv` directory. I would suggest giving the CSV file an appropriate name. (e.g. "2019_Human_Development_Index.csv")
 
-New data that is added to this project must be in CSV format. The order of the columns must be `rank,name,score`, no additional columns are accepted. `rank` and `score` must have a number data type and `name` must have a string data type. The CSV file then must be placed in the `resources/csv` directory.
+Inside the `resources/json/ranges.json` file, add a new object within the array with the properties `title` and `ranks`. The `title` property **MUST** match the CSV filename with the underscores replaced with spaces. See the example below.
+
+```json
+{
+  "title": "2019 Human Development Index",
+  "ranks": {
+    "best": 1,
+    "worst": 189
+  }
+}
+```
+
+**DO NOT** insert duplicate objects in the array, as it will result in an inaccurate calculation.
 
 Issue the following command to complete the process. The data should be written to the `resources/json/data.json` file.
 
@@ -40,4 +54,4 @@ To deploy a local testing server, we are going to be using the _http.server_ Pyt
 python3 -m http.server
 ```
 
-Go to the URL `http://0.0.0.0:8000/` in your web browser to view the page.
+Go to the URL `http://localhost:8000/` in your web browser to view the page.
